@@ -1,5 +1,5 @@
 import sys
-from model.pvtv2 import pvt_v2_b2 as pvt
+from pvtv2 import pvt_v2_b2 as pvt
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
